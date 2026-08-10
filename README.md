@@ -86,9 +86,10 @@ I enjoy learning by building — taking concepts beyond tutorials and turning id
 
 
 
-<div align="center">
 
 ## 💌 Let's Build Something
+
+<div align="center">
 
 ### *Have an idea? Let's turn it into something real. ✨*
 
