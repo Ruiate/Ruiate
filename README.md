@@ -98,9 +98,11 @@ I enjoy learning by building — taking concepts beyond tutorials and turning id
 
 <br/><br/>
 
-<sub>
-  <i>Made with curiosity, built with consistency, and finished with a little ✨</i>
-</sub>
+<div align="center">
+
+### *Made with curiosity, built with consistency, and finished with a little ✨*
+
+</div>
 
 <br/><br/>
 
