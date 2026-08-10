@@ -76,7 +76,6 @@ I enjoy learning by building — taking concepts beyond tutorials and turning id
 
 
 
-
 # 🔥 Coding Consistency
 
 <div align="center">
@@ -99,7 +98,9 @@ I enjoy learning by building — taking concepts beyond tutorials and turning id
 
 <br/><br/>
 
-<sub>Made with curiosity, consistency & a little bit of ✨</sub>
+<sub>
+  <i>Made with curiosity, built with consistency, and finished with a little ✨</i>
+</sub>
 
 <br/><br/>
 
