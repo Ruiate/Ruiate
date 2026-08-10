@@ -58,7 +58,7 @@ I enjoy learning by building — taking concepts beyond tutorials and turning id
 ### 💫 What I'm Doing
 
 * 🔭 Building **real-world software & AI/ML projects**
-* 🌱 Learning **DSA, Machine Learning, Java, C++, Linux & Web Development**
+* 🌱 Learning **DSA, Machine Learning, Java, Linux & Web Development**
 * 💻 Improving my **Python & data analysis** skills
 * 👯 Looking for **interesting collaborations**
 * 🎯 Working toward becoming a stronger **software engineer**
