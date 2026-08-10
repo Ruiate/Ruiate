@@ -71,7 +71,7 @@ I enjoy learning by building — taking concepts beyond tutorials and turning id
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,c,java&theme=dark"/>
 
 <br/><br/>
 
