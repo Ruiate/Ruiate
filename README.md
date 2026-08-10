@@ -65,44 +65,6 @@ I enjoy learning by building — taking concepts beyond tutorials and turning id
 
 ---
 
-# 🎀 My Tech Stack
-
-<div align="center">
-
-### 💻 Languages
-
-<img src="https://skillicons.dev/icons?i=python,c,java&theme=dark"/>
-
-<br/><br/>
-
-### 🤖 AI • Data
-
-<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-
-<br/><br/>
-
-### 🌐 Web • Database
-
-<img src="https://skillicons.dev/icons?i=html,css,js,mysql&theme=dark"/>
-
-<br/><br/>
-
-### 🛠️ Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark"/>
-
-</div>
-
----
-
-
-
 # 📊 GitHub Analytics
 
 
