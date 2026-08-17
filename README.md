@@ -74,7 +74,6 @@ I enjoy learning by building — taking concepts beyond tutorials and turning id
 </div>
 
 
-
 # 🔥 Coding Consistency
 
 <div align="center">
