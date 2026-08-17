@@ -67,7 +67,6 @@ I enjoy learning by building — taking concepts beyond tutorials and turning id
 
 # 📊 GitHub Analytics
 
-
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ruiate&bg_color=0D1117&color=E6EDF3&line=E8A0BF&point=CDB4DB&area_color=6D597A&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
