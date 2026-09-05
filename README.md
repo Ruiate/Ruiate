@@ -110,4 +110,4 @@ I enjoy learning by building — taking concepts beyond tutorials and turning id
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8A0BF,50:B565A7,100:6D597A&height=130&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8A0BF,50:B565A7,100:6D597A&height=130&section=footer"/> 
