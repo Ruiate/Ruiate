@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=B565A7&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Sneha+%F0%9F%8C%B7;Girl+who+loves+to+code+%F0%9F%92%BB;Building+ideas+into+real+projects+%E2%9C%A8;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Learning+DSA+%26+Software+Engineering+%F0%9F%A7%A0;Learning+%E2%80%A2+Building+%E2%80%A2+Growing+%F0%9F%8C%B8"/>
 
 <br/>
-
+ 
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="220"/>
 
 <br/><br/>
