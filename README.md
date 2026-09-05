@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D597A,50:B565A7,100:E8A0BF&height=220&section=header&text=Sneha%20Naik%20%E2%9C%A8&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ENTC%20%E2%80%A2%20Software%20%E2%80%A2%20AI%2FML&descAlignY=58&descSize=18"/>
 
